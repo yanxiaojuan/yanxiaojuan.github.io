@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>shaoyao</title>
+  
+  <subtitle>web</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yanxiaojuan.github.io/"/>
+  <updated>2020-01-14T11:22:04.136Z</updated>
+  <id>https://yanxiaojuan.github.io/</id>
+  
+  <author>
+    <name>shaoyao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>a</title>
+    <link href="https://yanxiaojuan.github.io/2020/-01-/05-/a/"/>
+    <id>https://yanxiaojuan.github.io/2020/-01-/05-/a/</id>
+    <published>2020-01-05T10:48:55.000Z</published>
+    <updated>2020-01-14T11:22:04.136Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在这里随便写点什么&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="test" scheme="https://yanxiaojuan.github.io/categories/test/"/>
+    
+    
+      <category term="test" scheme="https://yanxiaojuan.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://yanxiaojuan.github.io/2020/-01-/05-/hello-world/"/>
+    <id>https://yanxiaojuan.github.io/2020/-01-/05-/hello-world/</id>
+    <published>2020-01-05T08:24:48.744Z</published>
+    <updated>2020-01-14T11:22:48.602Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
