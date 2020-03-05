@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yanxiaojuan.github.io/"/>
-  <updated>2020-01-14T11:22:04.136Z</updated>
+  <updated>2020-03-05T10:34:46.267Z</updated>
   <id>https://yanxiaojuan.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo</title>
+    <link href="https://yanxiaojuan.github.io/2020/-03-/04-/hexo/"/>
+    <id>https://yanxiaojuan.github.io/2020/-03-/04-/hexo/</id>
+    <published>2020-03-04T01:36:30.000Z</published>
+    <updated>2020-03-05T10:34:46.267Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;hexo在本地运行&quot;&gt;&lt;a href=&quot;#hexo在本地运行&quot; class=&quot;headerlink&quot; title=&quot;hexo在本地运行&quot;&gt;&lt;/a&gt;hexo在本地运行&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;t
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://yanxiaojuan.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://yanxiaojuan.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>a</title>

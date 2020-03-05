@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hexo</title>
+    <url>/2020/-03-/04-/hexo/</url>
+    <content><![CDATA[<h2 id="hexo在本地运行"><a href="#hexo在本地运行" class="headerlink" title="hexo在本地运行"></a>hexo在本地运行</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s &#x2F;&#x2F; 本地代码运行</span><br></pre></td></tr></table></figure>
+
+<h2 id="hexo部署到git项目"><a href="#hexo部署到git项目" class="headerlink" title="hexo部署到git项目"></a>hexo部署到git项目</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean &#x2F;&#x2F;清除了你之前生成的东西，也可以不加。</span><br><span class="line">hexo generate &#x2F;&#x2F;顾名思义，生成静态文章，可以用 hexo g缩写</span><br><span class="line">hexo deploy &#x2F;&#x2F;部署文章，可以用hexo d缩写</span><br><span class="line"></span><br><span class="line">之后可以在http:&#x2F;&#x2F;yourname.github.io查看</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>a</title>
     <url>/2020/-01-/05-/a/</url>
     <content><![CDATA[<p>在这里随便写点什么</p>
