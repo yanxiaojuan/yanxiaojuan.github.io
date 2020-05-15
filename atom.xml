@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yanxiaojuan.github.io/"/>
-  <updated>2020-03-05T10:34:46.267Z</updated>
+  <updated>2020-01-14T11:22:48.602Z</updated>
   <id>https://yanxiaojuan.github.io/</id>
   
   <author>
@@ -17,18 +17,53 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo</title>
-    <link href="https://yanxiaojuan.github.io/2020/-03-/04-/hexo/"/>
-    <id>https://yanxiaojuan.github.io/2020/-03-/04-/hexo/</id>
-    <published>2020-03-04T01:36:30.000Z</published>
-    <updated>2020-03-05T10:34:46.267Z</updated>
+    <title>Hello World</title>
+    <link href="https://yanxiaojuan.github.io/2020/-03-/17-/hello-world/"/>
+    <id>https://yanxiaojuan.github.io/2020/-03-/17-/hello-world/</id>
+    <published>2020-03-17T02:42:41.482Z</published>
+    <updated>2020-01-14T11:22:48.602Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ES6AndBabel</title>
+    <link href="https://yanxiaojuan.github.io/2020/-03-/05-/ES6AndBabel/"/>
+    <id>https://yanxiaojuan.github.io/2020/-03-/05-/ES6AndBabel/</id>
+    <published>2020-03-05T10:54:54.000Z</published>
+    <updated>2020-03-05T10:59:05.809Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;hexo在本地运行&quot;&gt;&lt;a href=&quot;#hexo在本地运行&quot; class=&quot;headerlink&quot; title=&quot;hexo在本地运行&quot;&gt;&lt;/a&gt;hexo在本地运行&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;t
+        &lt;p&gt;&lt;img src=&quot;ES6AndBabel/imgs/1557213201454.png&quot; alt=&quot;1557213201454&quot;&gt;&lt;/p&gt;
+
       
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo</title>
+    <link href="https://yanxiaojuan.github.io/2020/-03-/04-/hexo/"/>
+    <id>https://yanxiaojuan.github.io/2020/-03-/04-/hexo/</id>
+    <published>2020-03-04T01:36:30.000Z</published>
+    <updated>2020-03-25T15:26:02.084Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;hexo部署运行&quot;&gt;&lt;a href=&quot;#hexo部署运行&quot; class=&quot;headerlink&quot; title=&quot;hexo部署运行&quot;&gt;&lt;/a&gt;hexo部署运行&lt;/h2&gt;
     
     </summary>
     
@@ -58,23 +93,6 @@
     
     
       <category term="test" scheme="https://yanxiaojuan.github.io/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://yanxiaojuan.github.io/2020/-01-/05-/hello-world/"/>
-    <id>https://yanxiaojuan.github.io/2020/-01-/05-/hello-world/</id>
-    <published>2020-01-05T08:24:48.744Z</published>
-    <updated>2020-01-14T11:22:48.602Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
     
   </entry>
   
